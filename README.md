@@ -1,1 +1,1 @@
-Hello, this is a repo to hold my personal projects.
+Hello, this is a repo to host my personal projects.
